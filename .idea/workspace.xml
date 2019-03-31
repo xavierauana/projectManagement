@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99d52c0f-b533-4f07-91ce-cd63e57f1441" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/.idea/dictionaries/adrianexavier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/assets/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatten/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLanguageContent/content/src/MultiLanguageServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Contracts/SearchableInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Traits/Searchable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/MyTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_charts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/navs/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/navs/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/navs/_topbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/sb-admin-2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_border.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_rotate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/sb-admin/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/myTable.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/plain.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/sidebar-wrapper.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/errors/404.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/topbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/project_options/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/project_options/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/project_options/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/projects/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/projects/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/projects/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Feature/ManageProjectOptionTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/UserGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/QrCodeReader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QrCodeReader/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/.idea/dictionaries/adrianexavier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/anacreation/utils/Checker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/anacreation/utils/EfLocker/EfLocker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote/Jb/anacreation/utils/EfLockerHtmlParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/DRIVER.LICENSE-hsqldb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/DRIVER.LICENSE-mysql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/DRIVER.LICENSE-postgresql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/DRIVER.LICENSE-sqlite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/DRIVER.LICENSE-sqlserver.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/config/schemacrawler.colormap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/config/schemacrawler.config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/derby-10.13.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/h2-1.4.197.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/hsqldb-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/mssql-jdbc-6.2.2.jre8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/mysql-connector-java-6.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/postgresql-42.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-db2-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-hsqldb-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-lint-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-mysql-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-offline-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-oracle-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-postgresql-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-sqlite-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/schemacrawler-sqlserver-14.20.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/sqlite-jdbc-3.21.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/lib/xstream-1.4.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/schemacrawler.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_schemacrawler/schemacrawler.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/acl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/blade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Console/Commands/Inspire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Events/Event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/HasRoles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Controllers/Auth/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Controllers/Auth/PasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Controllers/PostsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/Requests/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Http/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Jobs/Job.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Listeners/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Permission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Policies/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Policies/PostPolicy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/Role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/bootstrap/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/compile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/factories/ModelFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2015_10_21_084333_create_posts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2015_10_21_093615_create_permissions_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2015_10_21_093621_create_roles_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/migrations/2016_04_22_023912_create_admins_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/seeds/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/phpspec.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/assets/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/views/errors/503.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/views/posts/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/views/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/tests/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acl/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerceVue/src/components/ProductCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerceVue/src/request/enpoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerceVue/src/request/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerceVue/src/stores/modules/cart/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerceVue/src/stores/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/resources/views/components/tab-content.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/resources/views/components/tab-header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/resources/views/components/tab.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/resources/views/components/tabs-languages-form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/.idea/dictionaries/adrianexavier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/ContentField/Number.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/ContentField/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Contract/ContentFieldInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Contract/ContentGroupInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Contract/ParseRequestForContentObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Entity/ContentObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Entity/ContentObjectCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Entity/ContentRequestParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Entity/ContentType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Exception/InvalidContentTypeException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/HeadlessServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Controllers/ContentGroupFieldsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Controllers/ContentsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/ContentGroupFields/StoreRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/ContentGroupFields/UpdateRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/ContentGroups/StoreRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/ContentGroups/UpdateRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/Contents/StoreRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Http/Request/Contents/UpdateRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Model/Content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Model/ContentGroup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Model/ContentIndex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Model/GroupStructure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Model/Language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/ModelEvent/LanguageDeleted.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/ModelEvent/LanguageSaved.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Service/ContentService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Traits/ContentField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/Traits/ContentGroup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/config/headless.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/factories/ContentGroupFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/factories/GroupStructureFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/factories/LanguageFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/migrations/2018_01_10_004827_create_languages_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/migrations/2018_01_10_010203_create_text_contents_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/migrations/2018_01_10_010938_create_content_indices_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/migrations/2018_01_10_013108_create_number_contents_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/database/migrations/2019_03_04_071548_create_contents_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Feature/ContentGroupFieldsControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Feature/ContentGroupsControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Feature/CreateContentTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Unit/ContentGroupTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Unit/ContentServiceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Unit/ContentTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/headless/src/tests/Unit/DummyFormRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../headless/resources/js/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbeauty/.idea/dictionaries/adrianexavier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbeauty/upload/admin/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbeauty/upload/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/dataset/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/dataset/genome-tags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/dataset/links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/dataset/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/dataset/tags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/recommander/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/untitled/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/untitled/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/untitled1/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/modules/hello_world-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/src/main/scala/com/anacreation/scala/testing_1/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/src/main/scala/com/anacreation/scala/testing_1/HelloWorldIWithList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/dictionaries/adrianexavier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting.xcodeproj/project.xcworkspace/xcuserdata/adrianexavier.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting.xcodeproj/xcuserdata/adrianexavier.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/Request.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/HttpTesting/HttpTesting/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Controllers/DownloadedVideosTableViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Extension/VideoViewControllerExtension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Extension/ViewControllerExtension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Helpers/SummaryLabel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Helpers/VideoDownloader.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/ITB.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Models/VideoSrc.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Models/Videos.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/New Group/SeekLinkParser.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/New Group/ShowVideo.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/ShowVideoService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/Views/Components/StandardSelect.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/detail_css.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/ITB/detailcss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/ITB/StandardInputProtocol.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Back.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Card.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Decodable/ApiResponse.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Decodable/HiraganaCollection.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Decodable/HiraganaContent.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Front.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/HiraganaCardBack.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/HiraganaCollectionViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/HiraganaCollectionViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/JapaneseFlashCar/JapaneseFlashCar/Request/Request.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/Test/src/Duck.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/katherinesCalendar/katherinesCalendar/Controllers/EventsCollectionViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/katherinesCalendar/katherinesCalendar/Event.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/katherinesCalendar/katherinesCalendar/EventView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/katherinesCalendar/katherinesCalendar/EventsContainerViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/katherinesCalendar/katherinesCalendar/SectionCollectionViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/timeline.xctimeline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/config/cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/config/cms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/database/seeds/AdminPermissionSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/database/seeds/AdminPermissionSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/css/cms/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/css/cms/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/cms/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/js/cms/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/cms/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/js/cms/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/cms/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/js/cms/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-beautify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-chromevox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-elastic_tabstops_lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-emmet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-error_marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-keybinding_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-language_tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-linking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-modelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-old_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-searchbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-settings_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-spellcheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-split.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-static_highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-statusbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-themelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/ext-whitespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/keybinding-emacs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/keybinding-vim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-abap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-abc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-actionscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-apache_conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-applescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-asciidoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-assembly_x86.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-autohotkey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-batchfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-bro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-c9search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-c_cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-cirru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-clojure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-cobol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-coldfusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-csharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-csound_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-csound_orchestra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-csound_score.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-curly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-django.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-dockerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-dot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-drools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-eiffel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-elixir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-elm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-erlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-forth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-fortran.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ftl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-gcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-gherkin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-gitignore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-glsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-gobstones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-golang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-graphqlschema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-groovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-haml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-haskell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-haskell_cabal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-haxe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-hjson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-html_elixir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-html_ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jsoniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jsp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jssm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-julia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-kotlin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-latex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-liquid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-lisp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-live_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-livescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-logiql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-lsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-luapage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-lucene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-makefile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-matlab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mavens_mate_log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-maze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mips_assembler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mipsassembler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mushcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-mysql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-nix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-nsis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-objectivec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ocaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-pascal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-perl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-pgsql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-pig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-plain_text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-praat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-prolog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-protobuf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-razor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-rdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-red.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-rhtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-rst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-rust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-scad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-scala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-scheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-smarty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-snippets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-soy_template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-space.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sparql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-sqlserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-stylus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-swift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-swig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-tcl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-tex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-textile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-toml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-tsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-turtle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-twig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-vala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-vbscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-verilog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-vhdl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-wollok.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-xquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/mode-yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/abap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/abc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/actionscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/apache_conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/applescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/asciidoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/assembly_x86.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/autohotkey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/batchfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/bro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/c9search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/c_cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/cirru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/clojure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/cobol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/coldfusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/csharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/csound_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/csound_orchestra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/csound_score.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/curly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/django.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/dockerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/dot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/drools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/eiffel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/elixir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/elm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/erlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/forth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/fortran.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ftl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/gcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/gherkin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/gitignore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/glsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/gobstones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/golang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/graphqlschema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/groovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/haml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/haskell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/haskell_cabal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/haxe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/hjson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/html_elixir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/html_ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jsoniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jsp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jssm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/julia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/kotlin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/latex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/liquid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/lisp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/live_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/livescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/logiql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/lsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/luapage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/lucene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/makefile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/matlab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/maze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mips_assembler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mipsassembler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mushcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/mysql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/nix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/nsis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/objectivec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ocaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/pascal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/perl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/pgsql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/pig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/plain_text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/praat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/prolog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/protobuf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/razor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/rdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/red.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/rhtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/rst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/rust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/scad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/scala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/scheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/smarty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/snippets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/soy_template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/space.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sparql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/sqlserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/stylus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/swift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/swig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/tcl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/tex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/textile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/toml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/tsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/turtle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/twig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/vala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/vbscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/verilog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/vhdl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/wollok.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/xquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/snippets/yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-ambiance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-chaos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-chrome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-clouds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-clouds_midnight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-cobalt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-crimson_editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-dawn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-dracula.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-dreamweaver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-eclipse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-gob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-gruvbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-idle_fingers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-iplastic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-katzenmilch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-kr_theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-kuroir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-merbivore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-merbivore_soft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-mono_industrial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-monokai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-pastel_on_dark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-solarized_dark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-solarized_light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-sqlserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-terminal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-textmate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-tomorrow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-tomorrow_night.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-tomorrow_night_blue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-tomorrow_night_bright.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-tomorrow_night_eighties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-twilight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-vibrant_ink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/theme-xcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/js/src-noconflict/worker-xquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/build-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/contents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/about/dialogs/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/colordialog/dialogs/colordialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/copyformatting/cursors/cursor-disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/copyformatting/cursors/cursor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/div/dialogs/div.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/find/dialogs/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/flash/dialogs/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/flash/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/hiddenfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/dialogs/textfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/forms/images/hiddenfield.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/iframe/dialogs/iframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/iframe/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/image/images/noimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/link/images/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/link/images/hidpi/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/liststyle/dialogs/liststyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/magicline/images/hidpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/magicline/images/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/magicline/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/pagebreak/images/pagebreak.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/preview/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/dialogs/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_blockquote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_div.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_h6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/showblocks/images/block_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/dialogs/smiley.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/angel_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/angel_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/angry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/angry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/broken_heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/broken_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/confused_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/confused_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/cry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/cry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/devil_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/devil_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/embaressed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/embarrassed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/embarrassed_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/envelope.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/kiss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/lightbulb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/lightbulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/omg_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/omg_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/regular_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/regular_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/sad_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/sad_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/shades_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/shades_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/teeth_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/teeth_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/thumbs_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/thumbs_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/thumbs_up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/thumbs_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/tongue_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/tongue_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/tounge_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/wink_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/smiley/images/wink_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/dialogs/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/templates/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/templates/images/template1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/templates/images/template2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/templates/templates/images/template3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/widget/images/handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/css/samples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/github-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/header-separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/img/navigation-tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/js/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/js/sf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/appendto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/assets/inlineall/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/assets/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/assets/uilanguages/languages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/datafiltering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/divreplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/inlineall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/inlinebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/readonly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/replacebyclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/replacebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/sample.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/tabindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/uicolor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/uilanguages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/hidpi/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/public/vendor/ckeditor/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/assets/img/logo_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/assets/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/assets/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/assets/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/assets/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/facilities.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/facilities.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professionalGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professionalGroups.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professionals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/professionals.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/service-item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/service-item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/services.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/definition/services.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/elements/imageHeading.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/elements/imageHeading.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/elements/navbar.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/elements/three_column_section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/elements/three_column_section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/facilities.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/facilities.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/not_found.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/not_found.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professional.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professional.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professionalGroups.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professionalGroups.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professionals.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/professionals.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/service-item.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/service-item.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/layouts/services.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/partials/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/resources/views/themes/default/partials/default.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Virtus/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProjectOptionController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+              <folding>
+                <element signature="e#40#89#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/projects/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="42" column="159" selection-start-line="42" selection-start-column="159" selection-end-line="42" selection-end-column="159" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProjectController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="68" column="49" lean-forward="true" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+              <folding>
+                <element signature="e#40#83#0#PHP" expanded="true" />
+                <element signature="e#421#750#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ViewModels/ProjectEditViewModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+              <folding>
+                <element signature="e#34#50#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Blade Template" />
+        <option value="CMS Layout Definition" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>form</find>
+      <find>login</find>
+      <find>val</find>
+      <find>datatab</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/Unit/ContactTest.php" />
+        <option value="$PROJECT_DIR$/app/Contact.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/ManageProjectOptionTest.php" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/sass/sb-admin/sb-admin-2.scss" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_03_16_023539_create_clients_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_03_16_024024_create_contacts_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_03_16_023554_create_invoices_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/components/plain.blade.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/topbar.blade.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/ManageProjectTest.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/porjects/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/database/seeds/ProjectsTableSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/resources/js/app.js" />
+        <option value="$PROJECT_DIR$/resources/views/components/myTable.blade.php" />
+        <option value="$PROJECT_DIR$/app/ViewModels/ProjectIndexViewModel.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/components/sidebar-wrapper.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/projects/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/Contracts/SearchableInterface.php" />
+        <option value="$PROJECT_DIR$/app/Project.php" />
+        <option value="$PROJECT_DIR$/app/ProjectOption.php" />
+        <option value="$PROJECT_DIR$/app/ViewModels/ProjectOptionIndexViewModel.php" />
+        <option value="$PROJECT_DIR$/app/Traits/Searchable.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/ProjectOption/StoreRequest.php" />
+        <option value="$PROJECT_DIR$/resources/views/project_options/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/project_options/edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/project_options/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/projects/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/js/components/MyTable.vue" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProjectOptionController.php" />
+        <option value="$PROJECT_DIR$/app/ViewModels/PorjectEditViewModel.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProjectController.php" />
+        <option value="$PROJECT_DIR$/app/ViewModels/ProjectEditViewModel.php" />
+        <option value="$PROJECT_DIR$/resources/views/projects/edit.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="a7283aff-d917-4140-8822-de6a1b2207bd" name="local" port="8000" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$/public" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1:8000/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/spatie/pdf-to-image" />
+      <path value="$PROJECT_DIR$/vendor/patchwork/utf8" />
+      <path value="$PROJECT_DIR$/vendor/anahkiasen/underscore-php" />
+      <path value="$PROJECT_DIR$/vendor/spatie/temporary-directory" />
+      <path value="$PROJECT_DIR$/vendor/spatie/image-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/spatie/string" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-activitylog" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/league/glide" />
+      <path value="$PROJECT_DIR$/vendor/spatie/image" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-medialibrary" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-view-models" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectOption" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ViewModels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="project_options" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/resources/views/projects" />
+      <recent name="$PROJECT_DIR$/resources/js/components" />
+      <recent name="$PROJECT_DIR$/resources/sass/sb-admin" />
+      <recent name="$PROJECT_DIR$/tests/Feature" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.local">
+    <configuration name="ClientTest.has_many_contacts" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\ClientTest" file="$PROJECT_DIR$/tests/Unit/ClientTest.php" method="has_many_contacts" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ContactTest.belongs_to_a_client" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\ContactTest" file="$PROJECT_DIR$/tests/Unit/ContactTest.php" method="belongs_to_a_client" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tests/Feature" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ManagementClientTest.create_a_client" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ManagementClientTest" file="$PROJECT_DIR$/tests/Feature/ManagementClientTest.php" method="create_a_client" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ManagementClientTest.update_client" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ManagementClientTest" file="$PROJECT_DIR$/tests/Feature/ManagementClientTest.php" method="update_client" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="127.0.0.1" port="8000">
+      <method v="2" />
+    </configuration>
+    <configuration name="local" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="127.0.0.1" port="8000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="local">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.ClientTest.has_many_contacts" />
+      <item itemvalue="PHPUnit.ContactTest.belongs_to_a_client" />
+      <item itemvalue="PHPUnit.Feature" />
+      <item itemvalue="PHPUnit.ManagementClientTest.create_a_client" />
+      <item itemvalue="PHPUnit.ManagementClientTest.update_client" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+      <item itemvalue="PHP Built-in Web Server.local" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Feature" />
+        <item itemvalue="PHPUnit.ContactTest.belongs_to_a_client" />
+        <item itemvalue="PHPUnit.ClientTest.has_many_contacts" />
+        <item itemvalue="PHPUnit.ManagementClientTest.update_client" />
+        <item itemvalue="PHPUnit.ManagementClientTest.create_a_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99d52c0f-b533-4f07-91ce-cd63e57f1441" name="Default Changelist" comment="" />
+      <created>1552652460595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552652460595</updated>
+      <workItem from="1552652461986" duration="20537000" />
+      <workItem from="1552891499650" duration="4035000" />
+      <workItem from="1552974526205" duration="1752000" />
+      <workItem from="1552980156777" duration="2729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ManagementClientTest_update_client - 2019.03.16 at 10h 49m 47s.xml">
+      <configuration name="ManagementClientTest.update_client" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ManagementClientTest_update_client - 2019.03.16 at 10h 50m 31s.xml">
+      <configuration name="ManagementClientTest.update_client" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ManagementClientTest_update_client - 2019.03.16 at 10h 50m 45s.xml">
+      <configuration name="ManagementClientTest.update_client" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTest_has_many_contacts - 2019.03.16 at 10h 53m 24s.xml">
+      <configuration name="ClientTest.has_many_contacts" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTest_has_many_contacts - 2019.03.16 at 10h 54m 00s.xml">
+      <configuration name="ClientTest.has_many_contacts" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTest_has_many_contacts - 2019.03.16 at 10h 55m 42s.xml">
+      <configuration name="ClientTest.has_many_contacts" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ContactTest_belongs_to_a_client - 2019.03.16 at 10h 57m 12s.xml">
+      <configuration name="ContactTest.belongs_to_a_client" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ContactTest_belongs_to_a_client - 2019.03.16 at 10h 57m 38s.xml">
+      <configuration name="ContactTest.belongs_to_a_client" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2019.03.16 at 10h 57m 59s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2019.03.16 at 10h 58m 54s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2003231" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.1875" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="DB Browser" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756326" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919224" weight="0.3981358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.3981358" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Quokka" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar/src/Middleware/InjectDebugbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="719" selection-start-line="719" selection-end-line="719" />
+          <folding>
+            <element signature="e#18225#18942#0#PHP" expanded="true" />
+            <element signature="e#19117#19448#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding>
+            <element signature="e#581#912#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/plain.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="84" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#45#81#0#PHP" expanded="true" />
+            <element signature="e#949#1022#0#PHP" expanded="true" />
+            <element signature="e#1197#1680#0#PHP" expanded="true" />
+            <element signature="e#1823#2051#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#23#78#0#PHP" expanded="true" />
+            <element signature="e#916#978#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/ManageProjectTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#33#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/topbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="182" column="107" selection-start-line="182" selection-start-column="107" selection-end-line="182" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="283" column="30" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="30" />
+          <folding>
+            <element signature="e#2947#2965#0#HTML" expanded="true" />
+            <element signature="e#8410#8428#0#HTML" expanded="true" />
+            <element signature="e#8750#8768#0#HTML" expanded="true" />
+            <element signature="e#9082#9100#0#HTML" expanded="true" />
+            <element signature="e#9419#9437#0#HTML" expanded="true" />
+            <element signature="e#9759#9778#0#HTML" expanded="true" />
+            <element signature="e#12414#12435#0#HTML" expanded="true" />
+            <element signature="e#12888#12894#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_03_15_123322_create_projects_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_03_16_023539_create_clients_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+            <element signature="n#up#0;n#CreateClientsTable#0;n#!!top" expanded="true" />
+            <element signature="e#311#461#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fzaninotto/faker/src/Faker/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="241" column="50" selection-start-line="241" selection-start-column="50" selection-end-line="241" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/ProjectsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/myTable.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/UsersTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#7#20#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/RolesTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#7#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="87" column="39" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_03_15_123452_create_project_options_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#326#477#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/projects/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ProjectOption.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#23#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ViewModels/ProjectOptionIndexViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#34#91#0#PHP" expanded="true" />
+            <element signature="e#289#401#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Contracts/SearchableInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="19" selection-start-line="13" selection-start-column="1" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/sidebar-wrapper.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="e#7#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/project_options/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/project_options/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/ProjectOption/StoreRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#249#355#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/projects/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/project_options/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Traits/Searchable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#23#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/MyTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProjectOptionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+          <folding>
+            <element signature="e#40#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ViewModels/ProjectIndexViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#191#295#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="68" column="49" lean-forward="true" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+          <folding>
+            <element signature="e#40#83#0#PHP" expanded="true" />
+            <element signature="e#421#750#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ViewModels/ProjectEditViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding>
+            <element signature="e#34#50#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/projects/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" column="159" selection-start-line="42" selection-start-column="159" selection-end-line="42" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>A &amp; A Creation Co.</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19148937" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
