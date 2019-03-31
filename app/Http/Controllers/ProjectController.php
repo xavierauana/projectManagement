@@ -18,9 +18,7 @@ class ProjectController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index(Request $request) {
-        if (optional(auth()->user())->cannot('browse_project')) {
-            abort(403);
-        }
+        $this->authorize('browse_project');
 
         return view("projects.index",
             new ProjectIndexViewModel(Project::search($request->query('keyword'))
