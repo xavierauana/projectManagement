@@ -350,6 +350,8 @@
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/contents.xcplayground" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/timeline.xctimeline" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/composer.json" afterDir="false" />
@@ -1216,8 +1218,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="286">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -1270,7 +1272,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Contact.php" />
         <option value="$PROJECT_DIR$/tests/Feature/ManageProjectOptionTest.php" />
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/sass/sb-admin/sb-admin-2.scss" />
@@ -1320,6 +1321,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/ProjectController.php" />
         <option value="$PROJECT_DIR$/app/ViewModels/ProjectEditViewModel.php" />
         <option value="$PROJECT_DIR$/resources/views/projects/edit.blade.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.circleci/config.yml" />
       </list>
     </option>
@@ -1664,7 +1666,7 @@
       <workItem from="1552891499650" duration="4035000" />
       <workItem from="1552974526205" duration="1752000" />
       <workItem from="1552980156777" duration="2729000" />
-      <workItem from="1554048634580" duration="811000" />
+      <workItem from="1554048634580" duration="1084000" />
     </task>
     <servers />
   </component>
@@ -1701,7 +1703,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29864000" />
+    <option name="totallyTimeSpent" value="30137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1749,13 +1751,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar/src/Middleware/InjectDebugbar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -2167,10 +2162,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="286">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
         </state>
       </provider>
     </entry>
