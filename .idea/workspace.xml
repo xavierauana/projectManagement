@@ -349,6 +349,7 @@
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/Contents.swift" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/contents.xcplayground" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/timeline.xctimeline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/composer.json" afterDir="false" />
@@ -1215,8 +1216,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+            <state relative-caret-position="261">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -1663,7 +1664,7 @@
       <workItem from="1552891499650" duration="4035000" />
       <workItem from="1552974526205" duration="1752000" />
       <workItem from="1552980156777" duration="2729000" />
-      <workItem from="1554048634580" duration="496000" />
+      <workItem from="1554048634580" duration="811000" />
     </task>
     <servers />
   </component>
@@ -1700,7 +1701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29549000" />
+    <option name="totallyTimeSpent" value="29864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -2168,8 +2169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+        <state relative-caret-position="261">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
