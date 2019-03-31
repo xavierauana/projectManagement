@@ -349,7 +349,7 @@
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/Contents.swift" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/contents.xcplayground" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xcode/playground/TableVIewVCWSearchBar.playground/timeline.xctimeline" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/app/Exceptions/Handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Virtus/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Virtus/composer.json" afterDir="false" />
@@ -1225,8 +1225,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="420">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -1673,7 +1673,7 @@
       <workItem from="1552891499650" duration="4035000" />
       <workItem from="1552974526205" duration="1752000" />
       <workItem from="1552980156777" duration="2729000" />
-      <workItem from="1554048634580" duration="2034000" />
+      <workItem from="1554048634580" duration="2181000" />
     </task>
     <servers />
   </component>
@@ -1710,7 +1710,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31087000" />
+    <option name="totallyTimeSpent" value="31234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -2178,8 +2178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="420">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
