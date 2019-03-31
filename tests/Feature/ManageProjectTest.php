@@ -17,10 +17,19 @@ class ManageProjectTest extends TestCase
      * @test
      */
     public function list_projects() {
-        $projects = Project::paginate();
 
-        return view("projects.index", compact('projects'));
+        $this->withoutExceptionHandling();
 
+        $user = (new UserGenerator())
+            ->addRole('super_admin')
+            ->addPermission('browse_project')
+            ->generate();
+        $this->actingAs($user);
+
+        $uri = route('projects.index');
+
+        $this->get($uri)->assertStatus(200)
+             ->assertViewHas('projects');
     }
 
     /**
