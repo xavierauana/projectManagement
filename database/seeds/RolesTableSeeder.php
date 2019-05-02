@@ -12,7 +12,9 @@ class RolesTableSeeder extends Seeder
      */
     public function run() {
         $roles = [
-            'super_admin'
+            'Super Admin',
+            'Sales',
+            'Finance',
         ];
 
         foreach ($roles as $role) {
@@ -22,8 +24,28 @@ class RolesTableSeeder extends Seeder
                     'name' => $role
                 ]);
 
-                if ($role === 'super_admin') {
+                if ($role === 'Super Admin') {
                     $newRole->givePermissionTo(\Spatie\Permission\Models\Permission::all());
+                } elseIf ($role === 'Sales') {
+                    $newRole->givePermissionTo(\Spatie\Permission\Models\Permission::where('name',
+                        'like', "%product%")
+                                                                                   ->orWhere('name',
+                                                                                       "like",
+                                                                                       "%client%")
+                                                                                   ->orWhere('name',
+                                                                                       "like",
+                                                                                       "%contact%")
+                                                                                   ->orWhere('name',
+                                                                                       "like",
+                                                                                       "%project%")
+                                                                                   ->get());
+                } elseIf ($role === 'Finance') {
+                    $newRole->givePermissionTo(\Spatie\Permission\Models\Permission::where('name',
+                        'like', "%invoice%")
+                                                                                   ->orWhere('name',
+                                                                                       "like",
+                                                                                       "%invoice%")
+                                                                                   ->get());
                 }
             }
         }

@@ -10,34 +10,8 @@
 			<div class="card-body">
 				<form action="{{route('projects.store')}}" method="POST">
 					@csrf
-					<legend>Project info</legend>
-					<div class="form-group">
-						{{Form::label('title','Title:',['class'=>'form-label'])}}
-						{{Form::text('title',null,['class'=>$errors->has('title')?"form-control is-invalid":"form-control"])}}
-						@if ($errors->has('title'))
-							<span class="invalid-feedback">
-					          <strong>{{ $errors->first('title') }}</strong>
-					      </span>
-						@endif
-					</div>
-					<div class="form-group">
-						{{Form::label('start_date','Start Date',['class'=>'form-label'])}}
-						{{Form::date('start_date',null,['class'=>$errors->has('start_date')?"form-control is-invalid":"form-control"])}}
-						@if ($errors->has('start_date'))
-							<span class="invalid-feedback">
-					          <strong>{{ $errors->first('start_date') }}</strong>
-					      </span>
-						@endif
-					</div>
-					<div class="form-group">
-						{{Form::label('end_date','End Date',['class'=>'form-label'])}}
-						{{Form::date('end_date',null,['class'=>$errors->has('end_date')?"form-control is-invalid":"form-control"])}}
-						@if ($errors->has('end_date'))
-							<span class="invalid-feedback">
-					          <strong>{{ $errors->first('end_date') }}</strong>
-					      </span>
-						@endif
-					</div>
+					@include('projects.form.form')
+					
 					<div class="form-group clearfix">
 						<a class="btn btn-info btn-sm shadow-sm text-light"
 						   href="{{url()->previous('/')}}"><i

@@ -1,6 +1,10 @@
 <!-- DataTales Example -->
 <div class="card shadow mb-4">
-  <div class="card-body">
+	
+	@if(isset($heading))
+		{{$heading}}
+	@endif
+	<div class="card-body">
       <div class="table-responsive p-1">
           <div class="">
 	          <div class="form-group px-0 col-md-5 col-lg-4 ml-auto">
@@ -27,7 +31,7 @@
       </div>
 	  <div class="row px-1">
 		  <div class="col-md-10">
-			{{$paginator->appends(request()->query())->links()}}
+			{{$paginator->fragment('foo')->appends(request()->query())->links()}}
 		  </div>
 		  <div class="col">
 			  <p>Total: {{$paginator->total()}}</p>

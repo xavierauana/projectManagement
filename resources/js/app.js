@@ -21,6 +21,11 @@ window.Vue = require('vue');
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('my-table', require('./components/MyTable.vue').default);
+Vue.component('invoice-items', require('./components/InvoiceItems.vue').default);
+Vue.component('create-invoice-form', require('./components/CreateInvoiceForm.vue').default);
+Vue.component('create-project-invoice-form', require('./components/CreateProjectInvoiceForm.vue').default);
+Vue.component('create-client-invoice-form', require('./components/CreateClientInvoiceForm.vue').default);
+Vue.component('edit-project-invoice-form', require('./components/EditProjectInvoiceForm.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
@@ -82,5 +87,4 @@ const app = new Vue({
                           jqEl.DataTable(options)
                         }
                       }
-
                     });

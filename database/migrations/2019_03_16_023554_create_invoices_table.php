@@ -14,10 +14,15 @@ class CreateInvoicesTable extends Migration
     public function up() {
         Schema::create('invoices', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->unsignedBigInteger('client_id');
-            $table->foreign('client_id')->references('id')->on('clients')
-                  ->onDelete('cascade');
-            $table->string('invoice_number')->unique();
+            $table->morphs('billable');
+            $table->date('due_date');
+            $table->text('internal_note')->nullable();
+            $table->text('note')->nullable();
+            $table->string('status')->default(\App\Enums\ProjectStatus::Active()
+                                                                      ->getValue());
+            $table->string('invoice_number')->unique()
+                  ->default(\Illuminate\Support\Str::uuid());
+            $table->softDeletes();
             $table->timestamps();
         });
     }

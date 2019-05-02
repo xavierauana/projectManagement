@@ -38,18 +38,25 @@ class UserGenerator
             return Permission::create(['name' => $permissionName]);
         });
 
-        collect($this->roles)
-            ->map(function (string $roleName) {
-                return Role::create(['name' => $roleName]);
-            })
-            ->each(function (Role $role) use ($permissions) {
-                $role->givePermissionTo($permissions);
-            })
-            ->each(function (Role $role) use ($user) {
-                $user->assignRole($role);
-            });
+        if (count($this->roles)) {
+            $roles = collect($this->roles)
+                ->map(function (string $roleName) {
+                    return Role::create(['name' => $roleName]);
+                });
+        } else {
+            $roles = collect(['default'])
+                ->map(function (string $roleName) {
+                    return Role::create(['name' => $roleName]);
+                });
+        }
 
+        $roles->each(function (Role $role) use ($permissions) {
+            $role->givePermissionTo($permissions);
+        })
+              ->each(function (Role $role) use ($user) {
+                  $user->assignRole($role);
+              });
 
-        return $user;
+        return $user->refresh();
     }
 }

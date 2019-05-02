@@ -2,6 +2,8 @@
 
 namespace App\Providers;
 
+use App\Client;
+use App\Contracts\PayeeInterface;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -11,9 +13,11 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function register()
-    {
-        //
+    public function register() {
+
+        setlocale(LC_MONETARY, config('app.locale'));
+
+        app()->bind(PayeeInterface::class, Client::class);
     }
 
     /**
@@ -21,8 +25,7 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
-    {
+    public function boot() {
         //
     }
 }

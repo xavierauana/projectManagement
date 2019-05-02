@@ -1,13 +1,11 @@
 <?php
 
-use App\Client;
 use Faker\Generator as Faker;
+use Illuminate\Support\Str;
 
 $factory->define(App\Invoice::class, function (Faker $faker) {
     return [
-        'client_id'      => function () {
-            return factory(Client::class)->create()->id;
-        },
-        'invoice_number' => $faker->uuid
+        'invoice_number' => Str::random(),
+        'due_date'       => \Carbon\Carbon::now(),
     ];
 });

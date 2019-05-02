@@ -12,7 +12,7 @@ class UpdateRequest extends FormRequest
      * @return bool
      */
     public function authorize() {
-        return optional($this->user())->can('update_project', $this->project);
+        return optional($this->user())->can('edit_project', $this->project);
     }
 
     /**
@@ -22,9 +22,12 @@ class UpdateRequest extends FormRequest
      */
     public function rules() {
         return [
-            'title'      => "required",
-            'start_date' => "required|date",
-            'end_date'   => "required|date|after:start_date",
+            'title'       => "required",
+            'start_date'  => "required|date",
+            'end_date'    => "required|date|after:start_date",
+            'items'       => 'nullable',
+            'items.*.id'  => 'sometimes|exists:products,id',
+            'items.*.qty' => 'sometimes|numeric|gt:0',
         ];
     }
 }

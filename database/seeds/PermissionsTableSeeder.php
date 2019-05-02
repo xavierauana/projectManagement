@@ -20,9 +20,14 @@ class PermissionsTableSeeder extends Seeder
         ];
         $entities = [
             'project',
+            'product',
             'project_option',
             'client',
             'contact',
+            'invoice',
+            'user',
+            'role',
+            'permission',
         ];
 
 

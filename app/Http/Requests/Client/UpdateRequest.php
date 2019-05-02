@@ -12,7 +12,7 @@ class UpdateRequest extends FormRequest
      * @return bool
      */
     public function authorize() {
-        return optional($this->user())->can('update_client', $this->invoice);
+        return optional($this->user())->can('edit_client', $this->invoice);
     }
 
     /**

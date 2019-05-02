@@ -22,13 +22,19 @@
 			       cellspacing="0">
                   <thead>
                     <tr>
-                      <th>Name</th>
+                      <th>Name </th>
+                      <th>Client Name</th>
+                      <th>Start Date</th>
+	                    <th>Status</th>
                       <th>Actions</th>
                     </tr>
                   </thead>
                   <tfoot>
                     <tr>
                       <th>Name</th>
+	                    <th>Client Name</th>
+	                    <th>Start Date</th>
+	                    <th>Status</th>
                       <th>Actions</th>
                     </tr>
                   </tfoot>
@@ -36,14 +42,34 @@
                     @foreach($projects as $project)
 	                    <tr>
                         <td>{{$project->title}}</td>
+		                    
                         <td>
-	                        <a class="btn btn-primary btn-sm btn-circle"
-	                           href="{{route("projects.edit", $project)}}"><i
-				                        class="fas fa-edit"></i></a>
-	                        <button class="btn btn-danger btn-sm btn-circle"
-	                                :disabled="busy"
-	                                @click.prevent="removeItem({{$project->id}}, '{{$project->title}}')"><i
-				                        class="fas fa-trash-alt"></i></button>
+	                        @can('read_client',$project->client)
+		                        <a href="{{route('clients.show',$project->client)}}">{{$project->client->name}}</a>
+	                        @else
+		                        {{$project->client->name}}
+	                        @endcan
+	                        </td>
+                        <td>{{$project->start_date}}</td>
+                        <td>{{$project->status}}</td>
+                        <td>
+	                        @can('edit_project')
+		                        <a class="btn btn-primary btn-sm btn-circle mb-1"
+		                           href="{{route("projects.edit", $project)}}"><i
+					                        class="fas fa-edit"></i></a>
+	                        @endcan
+	                        @can('browse_invoice', $project)
+		                        <a class="btn btn-success btn-sm btn-circle mb-1"
+		                           :disabled="busy"
+		                           href="{{route("projects.invoices.index",$project)}}"><i
+					                        class="fas fa-file-invoice-dollar"></i></a>
+	                        @endcan
+	                        @can('delete_project')
+		                        <button class="btn btn-danger btn-sm btn-circle mb-1"
+		                                :disabled="busy"
+		                                @click.prevent="removeItem({{$project->id}}, '{{$project->title}}')"><i
+					                        class="fas fa-trash-alt"></i></button>
+	                        @endcan
                         </td>
                       </tr>
                     @endforeach

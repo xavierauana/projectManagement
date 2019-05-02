@@ -8,6 +8,9 @@ $factory->define(App\Project::class, function (Faker $faker) {
 
     return [
         'title'      => $faker->sentence,
+        'client_id'  => function () {
+            return factory(\App\Client::class)->create()->id;
+        },
         'start_date' => $start_date,
         'end_date'   => $end_date,
     ];

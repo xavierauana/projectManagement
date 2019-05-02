@@ -16,9 +16,11 @@ class CreateContactsTable extends Migration
             $table->bigIncrements('id');
             $table->string('first_name')->nullable();
             $table->string('last_name');
-            $table->unsignedBigInteger('client_id');
-            $table->foreign('client_id')->references('id')->on('clients')
-                  ->onDelete('cascade');
+            $table->string('job_title')->nullable();
+            $table->enum('gender', ['male', 'female'])->nullable();
+            $table->string('salutation')->nullable();
+            $table->unsignedBigInteger('client_id')->nullable();
+            $table->foreign('client_id')->references('id')->on('clients');
             $table->timestamps();
         });
     }

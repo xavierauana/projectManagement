@@ -1,0 +1,19 @@
+{
+  "name": "anacreation/accounting",
+  "description": "Simple Accounting",
+  "type": "lib",
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Xavier Au",
+	  "email": "xavier.au@anacreation.com"
+	}
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+	"psr-4": {
+	  "Anacreation\\Accounting\\": "src/"
+	}
+  }
+}

@@ -20,13 +20,40 @@ trait Searchable
 
         $columns = $this->searchableColumns ?? [];
         foreach ($columns as $index => $column) {
-            if ($index == 0) {
-                $query->where($column, 'like', "%{$keyword}%");
+
+            if (strpos($column, ".") > -1) {
+                list($column, $relationship) = $this->parseRelationshipColumn($column);
+
+                $queryFunction = function ($q) use ($column, $keyword) {
+                    return $q->where($column, 'like', "%{$keyword}%");
+                };
+
+                if ($index == 0) {
+                    $query->whereHas($relationship, $queryFunction);
+                } else {
+                    $query->orWhereHas($relationship, $queryFunction);
+                }
             } else {
-                $query->orWhere($column, 'like', "%{$keyword}%");
+                if ($index == 0) {
+                    $query->where($column, 'like', "%{$keyword}%");
+                } else {
+                    $query->orWhere($column, 'like', "%{$keyword}%");
+                }
             }
         }
 
         return $query;
+    }
+
+    /**
+     * @param $column
+     * @return array
+     */
+    private function parseRelationshipColumn($column): array {
+        $array = explode('.', $column);
+        $column = $array[1];
+        $relationship = $array[0];
+
+        return array($column, $relationship);
     }
 }
